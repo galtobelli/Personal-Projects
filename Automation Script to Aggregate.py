@@ -1,3 +1,8 @@
+# The purpose of this script to automate the process of getting 2 csv files from an email everyday and storing a "clean" version automatically every day.
+# Step 1: Write a VBA script to download the email attachments based on specific conditions and store them. This was a weekend project for me since I have never coded in VBA before so Google is your best friend
+# Step 2: Once your VBA script is good to go this is where Python takes over and you can start cleaning up your data
+# Step 3: I really hope this script serves your purpose and please let me know on improvements as my background is Mathematics not CS so I would love feedback
+
 import csv
 import os
 import glob
